@@ -15,6 +15,6 @@ Public portfolio of 12-day AI Trainer Workshop. By Day 12: 6 daily notebooks + c
 
 ![Gemini first call](gemini_first_call.png)
 ```
-(Upload the PNG via GitHub web UI: Add file → Upload files.)
+
 
 
